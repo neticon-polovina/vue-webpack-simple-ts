@@ -1,4 +1,4 @@
-# vue-ts2
+# vue-webpack-simple-ts
 
 > A Vue.js project
 
